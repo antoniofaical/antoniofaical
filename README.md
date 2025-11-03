@@ -4,11 +4,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Monomakh&pause=1000&color=F77900&vCenter=true&center=true&width=435&lines=Hello%2C+my+name+is+Antonio+Faical;I+study+Biomedical+Engineering+at+FICSAE;Welcome+to+my+profile!" alt="Typing SVG">
 
 <div>
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=antoniofaical&show_icons=true&count_private=true&hide_border=true&title_color=f77900&icon_color=f77900&text_color=c9d1d9&bg_color=0d1117" alt="antonio Faical github stats"/>
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniofaical&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=antoniofaical&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="antonio faical github stats"/>
+  <img width="45%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniofaical&theme=dark&hide_border=true" alt="antonio faical github streak"/>
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniofaical&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="antonio faical top langs"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniofaical&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![antoniofaical's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniofaical&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=antoniofaical&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
