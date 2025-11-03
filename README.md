@@ -6,14 +6,11 @@
 <div>
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=antoniofaical&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="antonio faical github stats"/>
   <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniofaical&theme=dark&hide_border=true" alt="antonio faical github streak"/>
+  <br>
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniofaical&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="antonio faical top langs"/>
 </div>
 
 [![antoniofaical's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniofaical&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=antoniofaical&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <br>
 
