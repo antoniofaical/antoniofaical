@@ -2,6 +2,8 @@
 <div align=center>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Monomakh&pause=1000&color=F77900&vCenter=true&center=true&width=435&lines=Hello%2C+my+name+is+Antonio+Faical;I+study+Biomedical+Engineering+at+FICSAE;Welcome+to+my+profile!" alt="Typing SVG">
+<br>
+<br>
 
 <div>
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=antoniofaical&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="antonio faical github stats"/>
