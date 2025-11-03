@@ -7,8 +7,11 @@
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=antoniofaical&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="antonio faical github stats"/>
   <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniofaical&theme=dark&hide_border=true" alt="antonio faical github streak"/>
   <br>
+  <br>
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniofaical&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="antonio faical top langs"/>
 </div>
+<br>
+<br>
 
 [![antoniofaical's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniofaical&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
