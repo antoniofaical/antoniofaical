@@ -1,4 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=25:000000,100:FB5012&height=100"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%A7%20WORK%20IN%20PROGRESS-README%20CURRENTLY%20BEING%20BUILT-FB5012?style=for-the-badge&labelColor=0D1117" alt="Work in progress - README currently being built"/>
+</div>
 <div align=center>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Monomakh&pause=1000&color=F77900&vCenter=true&center=true&width=435&lines=Hello%2C+my+name+is+Antonio+Faical;I+study+Biomedical+Engineering+at+FICSAE;Welcome+to+my+profile!" alt="Typing SVG">
